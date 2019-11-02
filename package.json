@@ -30,6 +30,6 @@
     "eslint-plugin-prettier": "^2.6.2",
     "mocha": "^5.2.0",
     "prettier": "^1.13.7",
-    "sequelize": "^5.8.6"
+    "sequelize": "^5.15.1"
   }
 }
